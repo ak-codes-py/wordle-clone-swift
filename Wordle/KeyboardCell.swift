@@ -29,9 +29,8 @@ class KeyboardCell: UICollectionViewCell {
         Tip: Command + click into the UILabel type to see its definition and find out what property to set
       Checkpoint: After finishing this exercise, you should now be able to see the keyboard laid out on the screen! If it's not working, check your work on exercises 1 & 2.
     */
-    // START YOUR CODE HERE
-    // ...
-    // END YOUR CODE HERE
+        self.string = string
+        label.text = string
   }
 
   // Exercise 5: Call the `didSelectString` closure and pass in the string this cell holds (see line 14)
