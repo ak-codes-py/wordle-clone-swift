@@ -29,6 +29,9 @@ The following **additional** features are implemented:
 
 ([https://www.youtube.com/watch?v=GA92eKlYio4](https://www.loom.com/share/f65efa95ff864f5cbcc22159a92d9537?sid=d610d121-899c-410d-b043-ab4f9e625faf)) .
 
+## Demo
+[https://github.com/ak-codes-py/wordle-clone-swift/blob/main/wordle-test.gif]
+
 
 ## Notes
 
