@@ -32,7 +32,7 @@ class ViewController: UIViewController {
       keyboardController.didSelectString = { [weak self] selectedString in
         guard let self = self else { return }
         if selectedString == DELETE_KEY {
-          self.boardController.deleteLastCharacter()
+            self.boardController.deleteLastCharacter()
         } else {
           self.boardController.enter(selectedString)
         }
